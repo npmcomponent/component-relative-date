@@ -1,5 +1,5 @@
 {
-  "name": "relative-date-component",
+  "name": "component-relative-date",
   "description": "Relative date in words",
   "version": "0.0.4",
   "keywords": [
@@ -8,14 +8,5 @@
     "utility"
   ],
   "dependencies": {},
-  "development": {},
-  "component": {
-    "scripts": {
-      "relative-date/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/relative-date.git"
-  }
+  "license": "MIT"
 }
